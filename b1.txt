@@ -1,1 +1,2 @@
-this is a test file named as b2.txt
+This is a test file named as b2.txt. 
+//Somethings are updated here
